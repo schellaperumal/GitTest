@@ -7,5 +7,4 @@ git commit -m "first commit"
 git remote add origin https://github.com/schellaperumal/GitTest.git
 git push -u origin master
 
-
-Added line from different system
+Editied the file here
